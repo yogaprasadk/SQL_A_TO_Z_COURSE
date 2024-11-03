@@ -11,6 +11,7 @@
 <!-- Lecture 3 -->
 <h3>Lecture 3: MySql Workbench Installation</h3>
 <a href="https://youtu.be/7_hEe6xaCME?feature=shared"><img src="https://github.com/user-attachments/assets/cfe98e06-a3b1-419e-8f92-fe453fb57fd1"/></a>
+<h3><a href="https://drive.google.com/file/d/1T-MmDy79gNgAH-5_QqqqKFZKuUkZLEFv/view">Notes</a>🚀</h3>
 
 <h3>Lecture 4: Types of SQL Commands</h3>
 <a href="https://www.youtube.com/watch?v=6eiGB5f_4EQ&list=PLrL_PSQ6q062H5CetdplYW7xQKeq8XaR0&index=4"><img src="https://github.com/user-attachments/assets/aacecfb4-d91f-4bb5-9890-1df561d0c4d3"/></a>
