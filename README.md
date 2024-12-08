@@ -17,6 +17,3 @@
 <a href="https://www.youtube.com/watch?v=6eiGB5f_4EQ&list=PLrL_PSQ6q062H5CetdplYW7xQKeq8XaR0&index=4"><img src="https://github.com/user-attachments/assets/aacecfb4-d91f-4bb5-9890-1df561d0c4d3"/></a>
 <h3><a href="https://drive.google.com/file/d/13LQ3ImUW74XFLsWqT7A6KHFfbx7-V5N8/view?usp=sharing">Notes</a>🚀</h3>
 
-<h3>Complete SQL 1 Shot Video</h3>
-<a href="https://www.youtube.com/watch?v=RQPpP2ywA9k"><img src="https://github.com/user-attachments/assets/7046f8ee-05b7-4574-a70f-b9f99402380d" width=1000 /></a>
-<h3><a href="https://drive.google.com/drive/folders/1jM3nZuSjJHkX2E-X3ov8qF77wFm21fvr">Notes</a>🚀</h3>
